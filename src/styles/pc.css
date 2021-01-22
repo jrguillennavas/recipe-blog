@@ -1,0 +1,86 @@
+.layout{
+    max-width: 1440px;
+    margin: auto;
+}
+
+
+/* HEADER */
+
+.presentation__title{
+    font-size: 4.8rem;
+}
+.presentation__info{
+    width: 60%;
+    margin-left: 1rem;
+    font-size: 1.4rem;
+}
+
+/* INGREDIENTS */
+
+.ingredients{
+    position: relative;
+}
+.detail{
+    position: absolute;
+    width: 21.7rem;
+    height: 36.8rem;
+    box-shadow: 0px 0px 20px rgba(0,0,0, 0.1);
+    border-radius: 1.2rem;
+    right: 0;
+    top: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+/* <!--  clock --> */
+.clock{
+    height: 40%;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.detail--fonts{
+    font-size: 1rem;
+}
+.detail--time{
+    font-size: 1.4rem;
+}
+
+/* <!-- ingredients --> */
+
+.ingredients__title{
+    font-size: 2.4rem;
+}
+.ingredients__subtitle{
+    font-size: 1.8rem;
+}
+.ingredients__detail{
+    font-size: 1.8rem;
+}
+.instruction__title{
+    font-size: 2.4rem;
+}
+
+/* INTRUCTIONS */
+
+label{
+    font-size: 1.6rem;
+    width: 50%;
+    line-height: 2.5rem;
+}
+.instruction__desc{
+    width: 55%;
+    font-size: 1.8rem;
+}
+
+/* LINK */
+
+.url{
+    font-size: 1.6rem;
+}
+
+/* FOOTER */
+
+footer{
+    font-size: 1.4rem;
+}
