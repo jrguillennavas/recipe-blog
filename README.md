@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/jrguillennavas/my-team-page">
+    <a href="https://recipe-blog-three.vercel.app">
       Solution
     </a>
     <span> | </span>
